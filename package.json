@@ -1,0 +1,16 @@
+{
+  "name": "skilltest-be-seq",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "sequelize-cli": "^6.6.2"
+  }
+}
